@@ -95,13 +95,13 @@ out/
 atlassian-ide-plugin.xml
 
 # Cursive Clojure plugin
-.idea/replstate.xml
+.idea/replstatexml
 
 # SonarLint plugin
 .idea/sonarlint/
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
-com_crashlytics_export_strings.xml
+com_crashlytics_export_strings.ml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
